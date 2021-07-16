@@ -1,0 +1,2 @@
+# ModuloRtc
+Diagrama y código
